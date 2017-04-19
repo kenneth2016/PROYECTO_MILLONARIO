@@ -35,10 +35,17 @@ body{
 	width:50%;
 	float:left;
 	height: 100%;
+	background-color: black;
 }
 
 .div_registro{
 	width:50%;
 	float:right;
 	height: 100%;
+	background-color: black;
+}
+
+.explicacion{
+	color: #00BFFF;
+	font-size: 20;
 }
