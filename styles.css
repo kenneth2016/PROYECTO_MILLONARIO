@@ -1,33 +1,28 @@
 body{
 	font-family: 'Open Sans', sans-serif;
+	background: url(img1.jpg);
+	background-size:cover;
 }
 
 
 .primer_div{
-	height: 150px;
+	height: 100px;
 	width: 100%;
 	border-radius: 10px
 }
 
-.div_madre{
-	height: 800px;
-	width: 100%;
-	background: url(img1.jpg);
-	background-size:cover;
-	border-radius: 10px
-}
+
 
 .super_titulo{
 	font-size: 45px;
 	color: #01A9DB;
 	float:left;
-	padding: 25px;
+	padding-top: 5px;
 
 }
 
 .contenedor{
-	height: 300px;
-	width: 400px;
+	height: 300px;	
 
 }
 
